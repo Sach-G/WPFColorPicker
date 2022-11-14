@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>palette.ico</ApplicationIcon>
+    <AssemblyName>WPF Color Picker</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="palette.ico" />
+  </ItemGroup>
+
+</Project>
